@@ -5,11 +5,11 @@ Clinet:
 
 Platform:
 
-mC3451 HW Version:
+HW Version:
 
-mC3451 SRAM Version:
+SRAM Version:
 
-mC3451 Driver Version:
+Driver Version:
 
 Issue Discription:
 
